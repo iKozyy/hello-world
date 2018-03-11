@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Leaf Browser Alpha",
+  "name": "WSHS Browser Alpha",
   "version": "0.1.2",
-  "author": "Sam Lanning <sam@samlanning.com>",
+  "author": "Sam Lanning <rkoz4mc@outlook.com>",
 
   "description": "An experimental browser that runs in chrome.",
   "icons": {
