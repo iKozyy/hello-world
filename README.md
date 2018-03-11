@@ -4,7 +4,6 @@
 This project is an **experimental** browser UI that runs as a Google Chrome app
 and uses webview tags. It's in its **very early** stages at the moment.
 
-![Leaf Browser Screenshot](screenshot.png)
 
 ## Key Features
 
